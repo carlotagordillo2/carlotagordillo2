@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently learning Data Analytics at Ironhack
 - 📫 How to reach me by email: carlotagordillo2002@gmail.com
--  ![🔗 LinkedIn Profile](https://www.linkedin.com/in/carlota-gordillo-alvarez)
+- 🔗 LinkedIn Profile : https://www.linkedin.com/in/carlota-gordillo-alvarez
 
 
 # 🚀 Proyects
